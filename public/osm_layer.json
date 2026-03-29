@@ -1,5 +1,5 @@
 {
   "name": "OpenStreetMap Standard",
-  "url": "http://tile.stamen.com/toner/{z}/{x}/{y}.png",
+  "url": "https://tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=abac9f085ef4437ab0dbf87430fba44c",
   "url_night": "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
 }
