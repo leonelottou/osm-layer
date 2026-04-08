@@ -1,5 +1,7 @@
 {
   "name": "OpenStreetMap Standard",
   "url": "https://tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=abac9f085ef4437ab0dbf87430fba44c",
-  "url_night": "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+  "url_night": "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+  "type_requete": 1,
+  "adresse_requete" : "leonelottou@gmail.com"
 }
