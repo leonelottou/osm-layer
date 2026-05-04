@@ -3,8 +3,6 @@
   "url": "https://tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=abac9f085ef4437ab0dbf87430fba44c",
   "url_night": "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
   "type_requete": 2,
-  "adresse_requete" : "leonelottou@gmail.com",
-  "api_url": "https://alert.acdc-int.com/",
-  "version": "1.0.10",                                                                      
-  "store_url": "https://play.google.com/store/apps/details?id=com.alertmoverz"
+  "adresse_requete" : "leonelottou@gmail.com"
+
 }
