@@ -1,0 +1,1186 @@
+[
+    {
+        "nom": "Horizon Femmes",
+        "numero": "233 44 59 96",
+        "localité": "Bafoussam",
+        "position": "5.477;10.417",
+        "catégories": 1,
+        "domaine_expertise": "Soutien aux femmes et lutte contre les VBG"
+    },
+    {
+        "nom": "ACAFEJ (Femmes Juristes)",
+        "numero": "699 44 37 14",
+        "localité": "Bafoussam",
+        "position": "5.477;10.417",
+        "catégories": 3,
+        "domaine_expertise": "Assistance juridique et défense des droits"
+    },
+    {
+        "nom": "ONG ESPOIR DES DÉMUNIS",
+        "numero": "225070806349",
+        "localité": "Abidjan (CI)",
+        "position": "5.326;-4.012",
+        "catégories": 4,
+        "domaine_expertise": "Assistance sociale et humanitaire"
+    },
+    {
+        "nom": "Association CALVIF",
+        "numero": "67288444",
+        "localité": "Cotonou (Bénin)",
+        "position": "6.366;2.433",
+        "catégories": 1,
+        "domaine_expertise": "Lutte contre les violences faites aux femmes"
+    },
+    {
+        "nom": "CAGEAD",
+        "numero": "677 658 324",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Plaidoyer et égalité des genres"
+    },
+    {
+        "nom": "ACAFEJ (Femmes Juristes)",
+        "numero": "699 67 37 69",
+        "localité": "Bertoua",
+        "position": "4.579;13.684",
+        "catégories": 3,
+        "domaine_expertise": "Assistance juridique et défense des droits"
+    },
+    {
+        "nom": "WFAC (Women for a Change)",
+        "numero": "696 009 179",
+        "localité": "Bertoua / Yaoundé",
+        "position": "3.866;11.516",
+        "catégories": 1,
+        "domaine_expertise": "Changement social et droits des femmes"
+    },
+    {
+        "nom": "Horizon Femmes",
+        "numero": "33 37 30 44",
+        "localité": "Douala",
+        "position": "4.050;9.700",
+        "catégories": 1,
+        "domaine_expertise": "Soutien aux femmes et lutte contre les VBG"
+    },
+    {
+        "nom": "ACAFEJ (Femmes Juristes)",
+        "numero": "699 98 11 79",
+        "localité": "Douala",
+        "position": "4.050;9.700",
+        "catégories": 3,
+        "domaine_expertise": "Assistance juridique et défense des droits"
+    },
+    {
+        "nom": "Hope for a Better Tomorrow (HOBET)",
+        "numero": "651 747 384",
+        "localité": "Limbe / Mbengwi",
+        "position": "4.016;9.216",
+        "catégories": 4,
+        "domaine_expertise": "Réhabilitation et soutien communautaire"
+    },
+    {
+        "nom": "ALVF-EN",
+        "numero": "699 850 717",
+        "localité": "Maroua",
+        "position": "10.591;14.316",
+        "catégories": 1,
+        "domaine_expertise": "Lutte contre les violences au Grand Nord"
+    },
+    {
+        "nom": "ALDEPA",
+        "numero": "",
+        "localité": "Maroua",
+        "position": "10.591;14.316",
+        "catégories": 4,
+        "domaine_expertise": "Développement participatif et autogéré"
+    },
+    {
+        "nom": "Leap Girl Africa",
+        "numero": "651 296 458",
+        "localité": "Yaoundé",
+        "position": "3.866;11.516",
+        "catégories": 1,
+        "domaine_expertise": "Autonomisation des jeunes filles"
+    },
+    {
+        "nom": "Association Sourire de Femmes",
+        "numero": "697 916 895",
+        "localité": "Yaoundé",
+        "position": "3.866;11.516",
+        "catégories": 1,
+        "domaine_expertise": "Soutien psychosocial"
+    },
+    {
+        "nom": "ACAFEJ (Femmes Juristes)",
+        "numero": "661 53 50 52",
+        "localité": "Yaoundé",
+        "position": "3.866;11.516",
+        "catégories": 3,
+        "domaine_expertise": "Assistance juridique et défense des droits"
+    },
+    {
+        "nom": "La Concorde Cameroun",
+        "numero": "655 091 686",
+        "localité": "Yaoundé",
+        "position": "3.866;11.516",
+        "catégories": 1,
+        "domaine_expertise": "Action sociale et médiation communautaire"
+    },
+    {
+        "nom": "AFJT (Femmes Juristes du Tchad)",
+        "numero": "66 77 50 35",
+        "localité": "Tchad",
+        "position": "12.113;15.048",
+        "catégories": 3,
+        "domaine_expertise": "Droit des femmes"
+    },
+    {
+        "nom": "Association Des Psychologues Tchadiens",
+        "numero": "+235 99 61 73 71",
+        "localité": "Tchad",
+        "position": "12.113;15.048",
+        "catégories": 2,
+        "domaine_expertise": "Soutien psychologique et santé mentale"
+    },
+    {
+        "nom": "WSSAG (Women Seeking Sanctuary)",
+        "numero": "+44 02921 320 635",
+        "localité": "England (UK)",
+        "position": "51.509;-0.118",
+        "catégories": 1,
+        "domaine_expertise": "Soutien aux femmes en quête d'asile"
+    },
+    {
+        "nom": "Fundong District Hospital",
+        "numero": "677 150 023",
+        "localité": "Fundong",
+        "position": "6.273;10.320",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux et CMR"
+    },
+    {
+        "nom": "Abuh Integrated Health Center",
+        "numero": "670 513 633",
+        "localité": "Fundong",
+        "position": "6.273;10.320",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux de base"
+    },
+    {
+        "nom": "International Medical Corps (IMC)",
+        "numero": "680 173 013",
+        "localité": "Konene (Fundong)",
+        "position": "6.273;10.320",
+        "catégories": 4,
+        "domaine_expertise": "Réponse médicale d'urgence VBG"
+    },
+    {
+        "nom": "Presbyterian Health Center Meli",
+        "numero": "670 811 436",
+        "localité": "Meli (Fundong)",
+        "position": "6.260;10.308",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux presbytériens"
+    },
+    {
+        "nom": "St. Thérèse Catholic Health Center Ngwah",
+        "numero": "670 520 571",
+        "localité": "Ngwah (Fundong)",
+        "position": "6.285;10.335",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux catholiques"
+    },
+    {
+        "nom": "Mbingo Baptist Hospital",
+        "numero": "676 572 811",
+        "localité": "Bum (Boyo)",
+        "position": "6.140;10.266",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux et soutien psychosocial"
+    },
+    {
+        "nom": "St. Martin De Porès Hospital",
+        "numero": "677 331 574",
+        "localité": "Njinikom",
+        "position": "6.230;10.274",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux catholiques"
+    },
+    {
+        "nom": "Catholic Relief Services (CRS)",
+        "numero": "674 108 874",
+        "localité": "Njinikom",
+        "position": "6.230;10.274",
+        "catégories": 4,
+        "domaine_expertise": "Santé et aide humanitaire"
+    },
+    {
+        "nom": "COMINSUD",
+        "numero": "677 770 205",
+        "localité": "Fundong",
+        "position": "6.273;10.320",
+        "catégories": 4,
+        "domaine_expertise": "Soutien psychosocial (PSS)"
+    },
+    {
+        "nom": "Plan International Cameroon",
+        "numero": "678 766 589",
+        "localité": "Njinikom",
+        "position": "6.230;10.274",
+        "catégories": 4,
+        "domaine_expertise": "Protection de l'enfance et des femmes"
+    },
+    {
+        "nom": "Plan International Cameroon",
+        "numero": "651 409 292",
+        "localité": "Belo",
+        "position": "6.133;10.250",
+        "catégories": 4,
+        "domaine_expertise": "Protection de l'enfance et des femmes"
+    },
+    {
+        "nom": "United Youths Organization",
+        "numero": "672 445 258",
+        "localité": "Belo",
+        "position": "6.133;10.250",
+        "catégories": 1,
+        "domaine_expertise": "Soutien psychosocial"
+    },
+    {
+        "nom": "WAG Cameroon",
+        "numero": "650 804 037",
+        "localité": "Belo",
+        "position": "6.133;10.250",
+        "catégories": 1,
+        "domaine_expertise": "Action communautaire contre les VBG"
+    },
+    {
+        "nom": "Green Partners Association",
+        "numero": "673 575 868",
+        "localité": "Belo",
+        "position": "6.133;10.250",
+        "catégories": 1,
+        "domaine_expertise": "Développement et PSS"
+    },
+    {
+        "nom": "Divisional Delegation of Social Affairs",
+        "numero": "683 736 019",
+        "localité": "Fundong",
+        "position": "6.273;10.320",
+        "catégories": 16,
+        "domaine_expertise": "Affaires sociales"
+    },
+    {
+        "nom": "Délégation MINPROFF Boyo",
+        "numero": "675 265 252",
+        "localité": "Fundong",
+        "position": "6.273;10.320",
+        "catégories": 16,
+        "domaine_expertise": "Promotion de la femme"
+    },
+    {
+        "nom": "Women's Empowerment Center (WEC)",
+        "numero": "675 006 765",
+        "localité": "Fundong",
+        "position": "6.273;10.320",
+        "catégories": 16,
+        "domaine_expertise": "Autonomisation des femmes"
+    },
+    {
+        "nom": "Mbengwi District Hospital",
+        "numero": "677 464 652",
+        "localité": "Mbengwi",
+        "position": "6.015;10.015",
+        "catégories": 5,
+        "domaine_expertise": "Santé publique"
+    },
+    {
+        "nom": "International Medical Corps (IMC)",
+        "numero": "674 163 735",
+        "localité": "Bome (Mbengwi)",
+        "position": "6.015;10.015",
+        "catégories": 4,
+        "domaine_expertise": "Réponse médicale d'urgence VBG"
+    },
+    {
+        "nom": "International Medical Corps (IMC)",
+        "numero": "675 508 488",
+        "localité": "Konda (Njikwa)",
+        "position": "6.037;9.900",
+        "catégories": 4,
+        "domaine_expertise": "Réponse médicale d'urgence VBG"
+    },
+    {
+        "nom": "St. John of God Hospital",
+        "numero": "665 367 284",
+        "localité": "Batibo",
+        "position": "5.470;9.862",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux"
+    },
+    {
+        "nom": "Batibo Health District / COHESODEC",
+        "numero": "676 273 535",
+        "localité": "Batibo",
+        "position": "5.470;9.862",
+        "catégories": 5,
+        "domaine_expertise": "Santé communautaire"
+    },
+    {
+        "nom": "St. Joseph Catholic Hospital",
+        "numero": "662 748 490",
+        "localité": "Widikum",
+        "position": "6.037;9.783",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux catholiques"
+    },
+    {
+        "nom": "International Rescue Committee (IRC)",
+        "numero": "681 967 488",
+        "localité": "Mbengwi (Momo)",
+        "position": "6.015;10.015",
+        "catégories": 4,
+        "domaine_expertise": "Aide humanitaire et protection"
+    },
+    {
+        "nom": "United Youth Organization",
+        "numero": "677 963 094",
+        "localité": "Batibo",
+        "position": "5.470;9.862",
+        "catégories": 4,
+        "domaine_expertise": "Soutien psychosocial"
+    },
+    {
+        "nom": "Women's Empowerment Center (WEC)",
+        "numero": "677 560 093",
+        "localité": "Mbengwi",
+        "position": "6.015;10.015",
+        "catégories": 16,
+        "domaine_expertise": "Autonomisation des femmes"
+    },
+    {
+        "nom": "Bafut District Hospital",
+        "numero": "675 079 280",
+        "localité": "Bafut",
+        "position": "6.116;10.090",
+        "catégories": 5,
+        "domaine_expertise": "Santé publique"
+    },
+    {
+        "nom": "Plan International Cameroon",
+        "numero": "666 428 490",
+        "localité": "Bafut",
+        "position": "6.116;10.090",
+        "catégories": 4,
+        "domaine_expertise": "Protection de l'enfance et des femmes"
+    },
+    {
+        "nom": "International Rescue Committee (IRC)",
+        "numero": "677 433 979",
+        "localité": "Bali",
+        "position": "5.890;10.010",
+        "catégories": 4,
+        "domaine_expertise": "Aide humanitaire et protection"
+    },
+    {
+        "nom": "Mantum Integrated Health Centre",
+        "numero": "677 387 535",
+        "localité": "Bali",
+        "position": "5.895;10.015",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux intégrés"
+    },
+    {
+        "nom": "St. Elizabeth Catholic Health Centre",
+        "numero": "675 918 077",
+        "localité": "Bali",
+        "position": "5.890;10.010",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux catholiques"
+    },
+    {
+        "nom": "Croix-Rouge (ICRC)",
+        "numero": "650 431 042",
+        "localité": "Bamenda",
+        "position": "5.970;10.160",
+        "catégories": 13,
+        "domaine_expertise": "Protection et secours médicaux"
+    },
+    {
+        "nom": "Délégation Régionale Santé Publique",
+        "numero": "674 228 555",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Santé reproductive et référencement"
+    },
+    {
+        "nom": "LOU (MdM Suisse)",
+        "numero": "681 198 034",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 8,
+        "domaine_expertise": "Santé mentale et orientation"
+    },
+    {
+        "nom": "Azire Integrated Health Center",
+        "numero": "679 610 895",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux intégrés"
+    },
+    {
+        "nom": "Mbachongwa Integrated Health Centre",
+        "numero": "677 852 106",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux intégrés"
+    },
+    {
+        "nom": "Ntambag Integrated Health Centre",
+        "numero": "675 311 249",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux intégrés"
+    },
+    {
+        "nom": "St. Maria Soledad Catholic Hospital",
+        "numero": "672 081 512",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux catholiques"
+    },
+    {
+        "nom": "Presbyterian Health Centre Mankon",
+        "numero": "677 911 318",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux presbytériens"
+    },
+    {
+        "nom": "Mount Zion Clinic",
+        "numero": "677 770 177",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux"
+    },
+    {
+        "nom": "Mezam Polyclinic",
+        "numero": "677 319 288",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux"
+    },
+    {
+        "nom": "The People's Clinic",
+        "numero": "677 021 013",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux"
+    },
+    {
+        "nom": "Family Foundation Clinic and Maternity",
+        "numero": "677 783 174",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Maternité et soins médicaux"
+    },
+    {
+        "nom": "CAMNAFAW",
+        "numero": "675 971 213",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Santé de la reproduction"
+    },
+    {
+        "nom": "IVFCam",
+        "numero": "677 121 234",
+        "localité": "Bamenda / Ndop",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Vision interconfessionnelle et santé"
+    },
+    {
+        "nom": "Cameroon Medical Women Association (CMWA)",
+        "numero": "676 513 435",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Santé des femmes et référencement VBG"
+    },
+    {
+        "nom": "Effective Basic Services (eBASE Africa)",
+        "numero": "677 319 374",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Recherche et services sociaux"
+    },
+    {
+        "nom": "CBC Health Services (CBCHS)",
+        "numero": "675 727 494",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.970;10.160",
+        "catégories": 4,
+        "domaine_expertise": "Services holistiques One-Stop"
+    },
+    {
+        "nom": "PMI Nkwen (Nkwen District Hospital)",
+        "numero": "677 440 403",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.162",
+        "catégories": 5,
+        "domaine_expertise": "Services médicaux"
+    },
+    {
+        "nom": "Nkwen Integrated Health Centre",
+        "numero": "655 978 959",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.162",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux intégrés"
+    },
+    {
+        "nom": "Ringland Medical Center",
+        "numero": "677 228 030",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.162",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux"
+    },
+    {
+        "nom": "Nkwen Baptist Hospital",
+        "numero": "677 690 600",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.972;10.158",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux baptistes"
+    },
+    {
+        "nom": "St. Peter's Clinic",
+        "numero": "679 204 710",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.162",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux"
+    },
+    {
+        "nom": "Sabga Baptist Health Centre",
+        "numero": "675 829 017",
+        "localité": "Sabga",
+        "position": "6.020;10.290",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux baptistes"
+    },
+    {
+        "nom": "Santa District Hospital",
+        "numero": "674 888 678",
+        "localité": "Santa",
+        "position": "5.834;10.158",
+        "catégories": 5,
+        "domaine_expertise": "Soins cliniques"
+    },
+    {
+        "nom": "Tubah District Hospital",
+        "numero": "675 099 455",
+        "localité": "Bambui",
+        "position": "6.033;10.250",
+        "catégories": 5,
+        "domaine_expertise": "Services médicaux"
+    },
+    {
+        "nom": "UNFPA",
+        "numero": "679 336 328",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 2,
+        "domaine_expertise": "Santé mentale et santé reproductive"
+    },
+    {
+        "nom": "Hôpital Régional de Bamenda",
+        "numero": "698 227 308",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 5,
+        "domaine_expertise": "Services médicaux régionaux"
+    },
+    {
+        "nom": "Plan International Cameroon",
+        "numero": "676 715 749",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Protection de l'enfance et des femmes"
+    },
+    {
+        "nom": "Community Impact for Africa",
+        "numero": "674 081 210",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Impact communautaire et développement"
+    },
+    {
+        "nom": "NW Assoc Women with Disabilities",
+        "numero": "675 322 337",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 17,
+        "domaine_expertise": "Soutien aux femmes handicapées"
+    },
+    {
+        "nom": "COMINSUD",
+        "numero": "676 836 642",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Soutien psychosocial (PSS)"
+    },
+    {
+        "nom": "MDM-CH (Médecins du Monde Suisse)",
+        "numero": "665 872 755",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 2,
+        "domaine_expertise": "Santé mentale et orientation"
+    },
+    {
+        "nom": "DERPROFF",
+        "numero": "675 393 402",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 16,
+        "domaine_expertise": "Délégation Régionale Promotion Femme"
+    },
+    {
+        "nom": "DDSA (Délégation Affaires Sociales)",
+        "numero": "677 768 682",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 16,
+        "domaine_expertise": "Affaires sociales et protection"
+    },
+    {
+        "nom": "Catholic Relief Services (CRS)",
+        "numero": "674 108 874",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Aide humanitaire et santé"
+    },
+    {
+        "nom": "Justice and Peace Commission (JPC)",
+        "numero": "677 677 407",
+        "localité": "Bamenda",
+        "position": "5.958;10.146",
+        "catégories": 1,
+        "domaine_expertise": "Droits humains et médiation"
+    },
+    {
+        "nom": "LUKMEF",
+        "numero": "669 676 291",
+        "localité": "Bamenda",
+        "position": "5.960;10.145",
+        "catégories": 4,
+        "domaine_expertise": "Protection, abris et droits"
+    },
+    {
+        "nom": "WAG Cameroon",
+        "numero": "650 804 056",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Action communautaire contre les VBG"
+    },
+    {
+        "nom": "HEDECS",
+        "numero": "675 392 568",
+        "localité": "Bamenda",
+        "position": "5.965;10.150",
+        "catégories": 1,
+        "domaine_expertise": "Santé et conseil"
+    },
+    {
+        "nom": "Positive Vision Cameroon (PVC)",
+        "numero": "677 125 838",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Soutien psychosocial"
+    },
+    {
+        "nom": "GRACE VISION",
+        "numero": "675 458 415",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Autonomisation et développement"
+    },
+    {
+        "nom": "COHESODEC",
+        "numero": "674 826 719",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Santé communautaire et développement social"
+    },
+    {
+        "nom": "CHRAC",
+        "numero": "677 084 119",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 3,
+        "domaine_expertise": "Droits humains et plaidoyer communautaire"
+    },
+    {
+        "nom": "SIWOG",
+        "numero": "677 224 492",
+        "localité": "Bamenda",
+        "position": "5.960;10.155",
+        "catégories": 1,
+        "domaine_expertise": "Autonomisation économique des femmes"
+    },
+    {
+        "nom": "Luc Memorial Foundation",
+        "numero": "675 001 203",
+        "localité": "Bamenda",
+        "position": "5.940;10.130",
+        "catégories": 1,
+        "domaine_expertise": "Réhabilitation psychosociale"
+    },
+    {
+        "nom": "Nkumu Fed Fed",
+        "numero": "677 375 598",
+        "localité": "Bamenda",
+        "position": "5.958;10.146",
+        "catégories": 1,
+        "domaine_expertise": "Promotion de la femme"
+    },
+    {
+        "nom": "CAWAS (Cameroon Women in Action Society)",
+        "numero": "677 881 133",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Action sociale"
+    },
+    {
+        "nom": "CHRDA",
+        "numero": "675 831 140",
+        "localité": "Bamenda",
+        "position": "5.955;10.145",
+        "catégories": 1,
+        "domaine_expertise": "Droits humains et assistance légale"
+    },
+    {
+        "nom": "Teen Alive Organization",
+        "numero": "677 479 498",
+        "localité": "Bamenda",
+        "position": "5.955;10.145",
+        "catégories": 1,
+        "domaine_expertise": "Soutien aux adolescents"
+    },
+    {
+        "nom": "Green Partners Association",
+        "numero": "673 575 868",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Développement et PSS"
+    },
+    {
+        "nom": "OWED",
+        "numero": "675 809 516",
+        "localité": "Bamenda",
+        "position": "5.965;10.140",
+        "catégories": 1,
+        "domaine_expertise": "Développement des capacités des femmes"
+    },
+    {
+        "nom": "C.R.C.D.D.",
+        "numero": "677 945 955",
+        "localité": "Bamenda",
+        "position": "6.000;10.160",
+        "catégories": 17,
+        "domaine_expertise": "Centre pour personnes handicapées"
+    },
+    {
+        "nom": "BIHAPH",
+        "numero": "674 300 229",
+        "localité": "Bamenda / Wum",
+        "position": "5.955;10.148",
+        "catégories": 1,
+        "domaine_expertise": "Humanitaire et paix"
+    },
+    {
+        "nom": "CUAPWD",
+        "numero": "675 612 344",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 17,
+        "domaine_expertise": "Coordination des personnes handicapées"
+    },
+    {
+        "nom": "COMAGEND",
+        "numero": "675 469 966",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Action pour le genre et développement"
+    },
+    {
+        "nom": "GIHA",
+        "numero": "677 831 004",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Humanitaire et genre"
+    },
+    {
+        "nom": "GACD",
+        "numero": "654 072 934",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Développement communautaire"
+    },
+    {
+        "nom": "MOHCAM",
+        "numero": "673 540 517",
+        "localité": "Bamenda",
+        "position": "5.965;10.150",
+        "catégories": 1,
+        "domaine_expertise": "Empowerment des femmes"
+    },
+    {
+        "nom": "GLODEV",
+        "numero": "673 926 672",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Vision globale développement"
+    },
+    {
+        "nom": "FO CAM Community Mental Health (FOMCAM)",
+        "numero": "669 351 212",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 2,
+        "domaine_expertise": "Santé mentale communautaire"
+    },
+    {
+        "nom": "Psyche Emergency Consulting (PEC)",
+        "numero": "677 787 066",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.162",
+        "catégories": 2,
+        "domaine_expertise": "Consultation psychologique d'urgence"
+    },
+    {
+        "nom": "IDF (Integrated Development Foundation)",
+        "numero": "670 236 562",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.970;10.160",
+        "catégories": 1,
+        "domaine_expertise": "Soutien au développement"
+    },
+    {
+        "nom": "H4BF (Hope for a Better Future)",
+        "numero": "670 343 354",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.970;10.160",
+        "catégories": 1,
+        "domaine_expertise": "Développement social"
+    },
+    {
+        "nom": "SHUMAS Cameroon",
+        "numero": "672 523 341",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.980;10.170",
+        "catégories": 4,
+        "domaine_expertise": "Services humanitaires"
+    },
+    {
+        "nom": "United Youths Organization",
+        "numero": "679 684 520",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.162",
+        "catégories": 1,
+        "domaine_expertise": "Soutien psychosocial jeunes"
+    },
+    {
+        "nom": "CHRAPA",
+        "numero": "679 362 689",
+        "localité": "Bamenda (Nkwen)",
+        "position": "6.000;10.160",
+        "catégories": 1,
+        "domaine_expertise": "Plaidoyer et aide légale"
+    },
+    {
+        "nom": "CAEPA",
+        "numero": "670 485 022",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.165",
+        "catégories": 1,
+        "domaine_expertise": "Protection environnementale et sociale"
+    },
+    {
+        "nom": "Research and Advocacy for Gender Justice (RAGJ)",
+        "numero": "675 267 972",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.975;10.162",
+        "catégories": 1,
+        "domaine_expertise": "Recherche et plaidoyer pour la justice de genre"
+    },
+    {
+        "nom": "Legal Dept. Mezam State Council's Chambers",
+        "numero": "675 628 865",
+        "localité": "Bamenda",
+        "position": "5.968;10.155",
+        "catégories": 3,
+        "domaine_expertise": "Assistance juridique officielle"
+    },
+    {
+        "nom": "NCHRF",
+        "numero": "678 169 094",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 3,
+        "domaine_expertise": "Droits humains et libertés fondamentales"
+    },
+    {
+        "nom": "Central Police Station",
+        "numero": "677 054 347",
+        "localité": "Bamenda",
+        "position": "5.955;10.148",
+        "catégories": 9,
+        "domaine_expertise": "Sécurité et plaintes"
+    },
+    {
+        "nom": "FIDA (Femmes Juristes)",
+        "numero": "677 658 759",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 3,
+        "domaine_expertise": "Défense juridique des femmes"
+    },
+    {
+        "nom": "Finders Group Initiative (FGI)",
+        "numero": "677 068 856",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 1,
+        "domaine_expertise": "Assistance sociale"
+    },
+    {
+        "nom": "REWAC",
+        "numero": "675 807 330",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Aide aux réfugiés"
+    },
+    {
+        "nom": "Loyalty Law Firm",
+        "numero": "675 160 353",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 3,
+        "domaine_expertise": "Assistance juridique"
+    },
+    {
+        "nom": "BeLA (Beacon of Light Association)",
+        "numero": "677 939 177",
+        "localité": "Bamenda (Nkwen)",
+        "position": "5.965;10.150",
+        "catégories": 3,
+        "domaine_expertise": "Assistance légale"
+    },
+    {
+        "nom": "UNHCR",
+        "numero": "675 552 923",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 4,
+        "domaine_expertise": "Protection et aide aux réfugiés"
+    },
+    {
+        "nom": "WEFC (Women's Empowerment and Family Center)",
+        "numero": "675 807 330",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 16,
+        "domaine_expertise": "Autonomisation économique des femmes"
+    },
+    {
+        "nom": "AEDVP",
+        "numero": "671 479 099",
+        "localité": "Bamenda",
+        "position": "5.961;10.147",
+        "catégories": 17,
+        "domaine_expertise": "Empowerment des sourds et personnes vulnérables"
+    },
+    {
+        "nom": "LUKMEF",
+        "numero": "672 008 950",
+        "localité": "Santa",
+        "position": "5.834;10.158",
+        "catégories": 4,
+        "domaine_expertise": "Protection, abris et droits"
+    },
+    {
+        "nom": "CAVP (Community Association of Vulnerable Persons)",
+        "numero": "675 102 899",
+        "localité": "Santa",
+        "position": "5.834;10.158",
+        "catégories": 1,
+        "domaine_expertise": "Soutien aux personnes vulnérables"
+    },
+    {
+        "nom": "ASWEDO",
+        "numero": "675 793 768",
+        "localité": "Benakuma",
+        "position": "6.380;9.700",
+        "catégories": 1,
+        "domaine_expertise": "Action sociale rurale"
+    },
+    {
+        "nom": "Precious Sisters",
+        "numero": "677 920 444",
+        "localité": "Wum",
+        "position": "6.383;10.066",
+        "catégories": 1,
+        "domaine_expertise": "Empowerment en zone rurale"
+    },
+    {
+        "nom": "Wum District Hospital",
+        "numero": "673 587 202",
+        "localité": "Wum",
+        "position": "6.383;10.066",
+        "catégories": 5,
+        "domaine_expertise": "Services médicaux"
+    },
+    {
+        "nom": "Africa Justice for Peace Association",
+        "numero": "673 399 416",
+        "localité": "Nkambe",
+        "position": "6.583;10.650",
+        "catégories": 1,
+        "domaine_expertise": "Justice et paix"
+    },
+    {
+        "nom": "Nkambe District Hospital",
+        "numero": "675 549 782",
+        "localité": "Nkambe",
+        "position": "6.583;10.650",
+        "catégories": 5,
+        "domaine_expertise": "Santé publique"
+    },
+    {
+        "nom": "Himalayas Institute",
+        "numero": "677 387 651",
+        "localité": "Kumbo",
+        "position": "6.200;10.666",
+        "catégories": 1,
+        "domaine_expertise": "Formation économique"
+    },
+    {
+        "nom": "Banso Baptist Hospital (BBH)",
+        "numero": "677 866 343",
+        "localité": "Kumbo",
+        "position": "6.200;10.666",
+        "catégories": 5,
+        "domaine_expertise": "Santé et CMR"
+    },
+    {
+        "nom": "St. Elizabeth Catholic Hospital",
+        "numero": "673 501 004",
+        "localité": "Shishong (Kumbo)",
+        "position": "6.180;10.700",
+        "catégories": 5,
+        "domaine_expertise": "Soins médicaux catholiques"
+    },
+    {
+        "nom": "COMINSUD",
+        "numero": "677 334 482",
+        "localité": "Kumbo",
+        "position": "6.200;10.666",
+        "catégories": 4,
+        "domaine_expertise": "Soutien psychosocial (PSS)"
+    },
+    {
+        "nom": "Community Education for Life (CEF Life)",
+        "numero": "675 803 132",
+        "localité": "Kumbo",
+        "position": "6.200;10.666",
+        "catégories": 4,
+        "domaine_expertise": "Éducation communautaire et soutien PSS"
+    },
+    {
+        "nom": "Plan International Cameroon",
+        "numero": "676 225 987",
+        "localité": "Kumbo",
+        "position": "6.200;10.666",
+        "catégories": 4,
+        "domaine_expertise": "Protection de l'enfance et des femmes"
+    },
+    {
+        "nom": "Justice and Peace Commission",
+        "numero": "675 411 550",
+        "localité": "Kumbo",
+        "position": "6.200;10.666",
+        "catégories": 1,
+        "domaine_expertise": "Droits humains et médiation"
+    },
+    {
+        "nom": "Women in Action against GBV",
+        "numero": "675 127 491",
+        "localité": "Jakiri",
+        "position": "6.100;10.716",
+        "catégories": 1,
+        "domaine_expertise": "Action contre les violences basées sur le genre"
+    },
+    {
+        "nom": "COMINSUD",
+        "numero": "670 550 468",
+        "localité": "Oku / Elak",
+        "position": "6.216;10.441",
+        "catégories": 4,
+        "domaine_expertise": "Soutien psychosocial (PSS)"
+    },
+    {
+        "nom": "NAFI",
+        "numero": "677 366 759",
+        "localité": "Ndop",
+        "position": "6.000;10.416",
+        "catégories": 1,
+        "domaine_expertise": "Santé communautaire"
+    },
+    {
+        "nom": "Rural Women Center",
+        "numero": "671 970 597",
+        "localité": "Ndop",
+        "position": "6.000;10.416",
+        "catégories": 1,
+        "domaine_expertise": "Éducation femmes rurales"
+    },
+    {
+        "nom": "Ndop District Hospital",
+        "numero": "670 243 977",
+        "localité": "Ndop",
+        "position": "6.000;10.416",
+        "catégories": 5,
+        "domaine_expertise": "Santé et référencement"
+    }
+]
